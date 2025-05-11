@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "authDemoApp",
+    "slug": "authDemoApp",
+    "scheme": "authDemoApp",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.nhoxnho73.authDemoApp"
+    }
+  }
+}
